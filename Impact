@@ -1,0 +1,31 @@
+Potential Impact of Solving it
+● Definitely there is a significant impact in helping the pilgrims get access to key information regarding the pilgrimage . Pilgrims can aks wide variety of questions
+● Reduces the burden on the help line numbers
+● Most pilgrims keep asking the same questions repeatedly , so with Ema , we can solve most of the cases
+● Cost effective
+● The current helpline number is active only on weekdays ( 9 AM to 5 PM ) . Pilgrim influx is mostly 24/7 .So with introduction of EMA , it
+can solve this issue
+● Helps in reducing potential scams and black market traders
+● Can also help the pilgrims during emergencies and unprecedented situations
+● Overall the pilgrim might feel satisfied
+
+
+How will this persona use GenAI
+Real-Time Information Delivery:
+● Queue Updates: The tickets scanned can give the information about the rush in the queues ..
+● Accommodation: Integrate with TTD’s booking systems to provide real-time room availability and booking options.
+● Sevas and Events: Pull data from TTD’s event schedules and seva offerings to provide up-to-date information which is exclusively
+known at the point .
+● Transport Information: Connect with transportation networks to give real-time bus timings and route information including private
+services.
+Multilingual Support:
+● Natural Language Processing (NLP): Enable understanding and response in multiple languages, both text and voice, ensuring accessibility for a diverse user base.
+● Local Dialects: Adapt to local dialects and slang for better user interaction and understanding. Personalized Assistance:
+● User Profiles: Create profiles based on user preferences, past interactions, and specific needs.
+● Custom Itineraries: Generate personalized itineraries using GenAI algorithms that consider user preferences and schedules.
+● Notification Alerts: Use AI to predict important updates and send timely notifications to users.
+Scam Prevention and Verification:
+● Information Verification: Ensure that all information provided is sourced from verified TTD databases to prevent misinformation.
+● Educational Content: Use GenAI to generate educational content and alerts about common scams and how to avoid them. 24/7 Availability:
+● Always-On Service: Utilize AI to provide continuous support, ensuring that help is available anytime, especially during peak times.
+● Emergency Response: Automate emergency response protocols to guide users to the nearest help or emergency services.
