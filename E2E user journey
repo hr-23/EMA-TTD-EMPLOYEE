@@ -1,0 +1,7 @@
+Pilgrim accesses EMA via a mobile app, website, or kiosk at the pilgrimage site. EMA greets the user and asks for their preferred language .
+User inputs their query either by typing or speaking. Uses NLP to understand the query and provides an immediate, accurate response using real-time data integration.
+EMA offers to set up a profile for the user to provide personalized assistance.
+Based on user preferences, it generates a custom itinerary including darshan times, sevas, accommodation, and transport options.
+EMA sends alerts about important updates, such as queue status, special events, or any changes in schedules.provides tips and alerts about common scams and how to avoid them.
+In case of an emergency, users can immediately contact EMA, which will guide them to the nearest help or provide emergency contact information.After their visit, 
+EMA prompts  users to provide feedback on their experience.EMA uses this feedback to improve its algorithms and provide better assistance in the future.
