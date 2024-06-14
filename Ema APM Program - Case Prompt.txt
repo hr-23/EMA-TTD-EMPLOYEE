@@ -1,0 +1,9 @@
+Ema APM Program - Case Prompt
+Ema is a universal AI employee, with multiple personas across roles and industries to revolutionize how people work. As a PM at Ema, you will regularly encounter deep, impactful enterprise problems where one of Ema’s personas can work collaboratively with existing employees to multiply their productivity. Identify one such gap in existing businesses and propose an Ema persona to provide outsized gains to the team she would be a part of. Address the following prompts:
+● Why did you choose this problem? What is the potential impact of solving it?
+● How will your persona use GenAI to solve the problem? What does the end to end user journey of working with
+this persona look like?
+● How will you test your persona and validate your hypotheses quickly?
+○ Demonstrate the feasibility of your use case via sample prompts and responses on synthetic data.
+● How do you measure the success of your solution?
+● What are some potential pitfalls of your solution?
