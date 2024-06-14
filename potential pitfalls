@@ -1,0 +1,25 @@
+Potential Pitfalls of EMA and Mitigation Strategies
+1. Inaccurate or Outdated Information:
+○ Pitfall: EMA may provide incorrect or outdated information if the data sources are not updated regularly.
+○ Mitigation: Ensure real-time data integration with TTD's systems and establish a protocol for regular updates and audits of the
+information database.
+2. Language and Cultural Nuances:
+○ Pitfall: Misunderstandings due to language barriers or cultural nuances in communication.
+○ Mitigation: Employ advanced NLP techniques and include a diverse set of language models that account for regional dialects
+and cultural context.
+3. Technical Glitches and Downtime:
+○ Pitfall: Technical issues could lead to downtime or reduced functionality, impacting user trust.
+○ Mitigation: Implement robust infrastructure with redundancy and failover mechanisms. Monitor system performance
+continuously and have a dedicated technical support team to address issues promptly.
+4. User Resistance to AI:
+○ Pitfall: Some users may be hesitant to trust or use an AI-based assistant.
+○ Mitigation: Educate users about the benefits and reliability of EMA. Provide an option for users to connect with human support
+if needed, to build trust gradually.
+5. Privacy and Security Concerns:
+○ Pitfall: Handling sensitive user data may raise privacy and security concerns.
+○ Mitigation: Adhere to strict data privacy regulations and implement robust security measures to protect user data. Clearly
+communicate the privacy policy to users.
+6. Scalability Issues:
+○ Pitfall: As the number of users grows, the system might face scalability challenges.
+○ Mitigation: Design EMA with scalability in mind, using cloud infrastructure that can handle increased load. Perform regular
+stress testing to ensure system robustness.
