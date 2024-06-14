@@ -1,0 +1,11 @@
+Example User Interaction Flow
+Initial Query:
+User: "What are the available accommodation options for tonight?"
+EMA: "Currently, we have standard rooms, deluxe rooms, and dormitories available. Would you like to know the prices and booking procedures?"
+Follow-Up Query:
+User: "Yes, please provide the prices."
+EMA: "Standard rooms are ₹500 per night, deluxe rooms are ₹1000 per night, and dormitories are ₹200 per night. You can book online or at the TTD office on-site. Would you like to proceed with an online booking?"
+Booking Assistance:
+User: "Yes, help me book a standard room online."
+EMA: "Sure, please visit the TTD website, select 'Accommodation', choose 'Standard Room', and enter your details. I will stay with you to answer any questions you may have during the process."
+This approach allows us to quickly test and validate EMA, ensuring it meets the needs of pilgrims and provides reliable, helpful service.
